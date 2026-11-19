@@ -1,4 +1,4 @@
-# Projeto Prático : Página de Receita
+# Desafio Prático : Local Turístico
 
 Este repositório contém a resolução obtida no desafio prático do módulo "Fundamentos do HTML e CSS" da Formação Full-Stack da Rocketseat. 
 
