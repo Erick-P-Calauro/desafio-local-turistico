@@ -105,6 +105,10 @@ ul {
     padding-left: 26px;
 }
 
+ul li::marker {
+  color: #333333;
+}
+
 .historia {
     color: #0C51A7;
 }
